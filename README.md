@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mokamaa
+- 👋 Hi, I’m Thuo Denis
 - 👀 I’m interested in data analytics and visualization
 - 🌱 I’m currently learning ML algorithims
 - 💞️ I’m looking to collaborate on data visualaization projects to derive qualitative insights
