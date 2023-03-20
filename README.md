@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Thuo Denis
 - 👀 I’m interested in data analytics and visualization
 - 🌱 I’m currently learning ML algorithims
-- 💞️ I’m looking to collaborate on data visualaization projects to derive qualitative insights
+- 💞️ I’m looking to collaborate on data visualization projects to derive qualitative insights
 - 📫 How to reach me ..Email:thuodenis97@gmail.com
 
 <!---
