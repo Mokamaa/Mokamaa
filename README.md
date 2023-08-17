@@ -2,7 +2,7 @@
 - 👀 I’m interested in data analytics and visualization
 - 🌱 I’m currently learning ML algorithims
 - 💞️ I’m looking to collaborate on data visualization projects to derive qualitative insights
-- 📫 How to reach me ..Email:thuodenis97@gmail.com
+- 📫 How to reach me ..Email:denisthuo120@gmail.com
 
 <!---
 Mokamaa/Mokamaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
